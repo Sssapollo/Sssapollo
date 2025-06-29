@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm passionate about **[NLP and computer security]
 ## 🛠️ About Me
 
 - 🎓 **Education**: Currently studying [CS] at [TUM]
-- 🌱 **Learning**: [GDB,GBS,NP,ITS,FoAI,Japanese (currently)]
 - 💻 **Skills**: [ Python, Java, SQL, C, HTML, C++]
 - 🌍 **Languages**: [ English, Mandarin,Deutsch]
 
