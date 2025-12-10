@@ -34,3 +34,6 @@ Feel free to explore my repositories for more!
 ---
 
 Thanks for stopping by! 🚀
+
+
+![GitHub Snake Light](https://github.com/Sssapollo/Sssapollo/blob/output/github-contribution-grid-snake.svg)
