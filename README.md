@@ -10,15 +10,6 @@ Welcome to my GitHub profile! I'm passionate about **[NLP and computer security]
 - 💻 **Skills**: [ Python, Java, SQL, C, HTML, JS]
 - 🌍 **Languages**: [ English, Mandarin,Deutsch]
 
----
-
-## 🔧 Technologies I Work With
-
-Here are a few tools, languages, and frameworks I often use:
-
-- **Programming Languages**: [Python, C, Java, etc.]
-- **Databases**: [MySQL]
-- **Others**: [Linux, Docker, Git, etc.]
 
 ---
 
