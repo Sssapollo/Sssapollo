@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title description">
+  <title id="title">Tianding Hou — AI systems and robot learning</title>
+  <desc id="description">A dark terminal-inspired banner with gently moving signals connecting language, inference, and action.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1a2939" stroke-width=".6"/></pattern>
+  </defs>
+  <rect width="960" height="280" rx="14" fill="#0d141f"/>
+  <rect x="1" y="1" width="958" height="278" rx="13" fill="url(#grid)" stroke="#283747"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <circle cx="34" cy="29" r="4" fill="#fb7185"/><circle cx="49" cy="29" r="4" fill="#fbbf24"/><circle cx="64" cy="29" r="4" fill="#4ade80"/>
+    <text x="87" y="33" fill="#94a3b8" font-size="11">sssapollo@github: ~</text>
+    <path d="M24 48H936" stroke="#283747"/>
+    <text x="38" y="88" fill="#67e8f9" font-size="12" letter-spacing="2">LLM SYSTEMS / ROBOT LEARNING</text>
+    <text x="35" y="146" fill="#f1f5f9" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="50" letter-spacing="-2">Tianding Hou</text>
+    <rect x="362" y="109" width="9" height="39" rx="1" fill="#a3e635"><animate attributeName="opacity" values="1;1;0;0;1" dur="2s" repeatCount="indefinite"/></rect>
+    <text x="38" y="184" fill="#cbd5e1" font-size="16">From language to action.</text>
+    <text x="38" y="233" fill="#94a3b8" font-size="12">TUM · INFORMATICS M.Sc.</text>
+    <text x="922" y="253" fill="#64748b" text-anchor="end" font-size="10">OBSERVE → INFER → ACT</text>
+  </g>
+  <g fill="none" stroke="#33465b" stroke-width="1.3">
+    <circle cx="760" cy="142" r="77"/><circle cx="760" cy="142" r="50"/>
+    <path id="signal" d="M630 184H678L714 106H762L798 170H886"/>
+    <path d="M630 142H890" stroke-dasharray="3 7"/>
+  </g>
+  <circle cx="760" cy="142" r="77" fill="none" stroke="#67e8f9" stroke-width="2" stroke-dasharray="24 460" opacity=".75"><animateTransform attributeName="transform" type="rotate" from="0 760 142" to="360 760 142" dur="24s" repeatCount="indefinite"/></circle>
+  <g fill="#0d141f" stroke="#67e8f9" stroke-width="2"><circle cx="678" cy="184" r="5"/><circle cx="738" cy="106" r="5"/><circle cx="824" cy="170" r="5"/></g>
+  <circle r="4" fill="#a3e635"><animateMotion dur="5s" path="M630 184H678L714 106H762L798 170H886" repeatCount="indefinite"/></circle>
+</svg>
